@@ -1,14 +1,14 @@
-# programming-languages-cheatsheet
+# Programming Language Guide for Beginner
 
 This is a guide for the people who are new to programming & javascript.
 
-[Basic](javascript/1-Basic.md)
+[Basic](./javascript/1-Basic.md)
 
-[Array](javascript/2-Array.md)
+[Array](./javascript/2-Array.md)
 
-[Object](javascript/3-Object.md)
+[Object](./javascript/3-Object.md)
 
-[Functions](javascript/4-Functions.md)
+[Functions](./javascript/4-Functions.md)
 
-[Prototype and Class](javascript/5-Prototype and Class.md)
+[Prototype and Class](./javascript/5-Prototype and Class.md)
 

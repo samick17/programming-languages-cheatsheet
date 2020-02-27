@@ -1,6 +1,6 @@
 # Programming Language Guide for Beginner
 
-Link: [Here](./docs/index.html)
+Link: [GitHub Page](https://samick17.github.io/programming-languages-cheatsheet/)
 
 This is a guide for the people who are new to programming & javascript.
 

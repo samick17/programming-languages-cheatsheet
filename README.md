@@ -1,5 +1,7 @@
 # Programming Language Guide for Beginner
 
+Link: [Here](./docs/index.html)
+
 This is a guide for the people who are new to programming & javascript.
 
 [Basic](./javascript/1-Basic.md)
